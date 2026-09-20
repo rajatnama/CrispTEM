@@ -67,10 +67,6 @@ The workflow generates:
 * Porosity measurements
 * Visual overlays of predicted features
 
-## Example
-
-Original TEM image → Probability map → Binary segmentation mask → Segmentation overlay → Quantitative analysis
-
 ## Model
 
 CrispTEM uses a U-Net encoder-decoder convolutional neural network with skip connections for pixel-level image segmentation.
@@ -83,4 +79,4 @@ CrispTEM was developed and demonstrated for nanopore segmentation in Zr corrosio
 
 ## License
 
-This project is distributed under the license specified in the repository.
+MIT License
