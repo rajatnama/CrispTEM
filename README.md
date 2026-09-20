@@ -81,16 +81,6 @@ The network is trained using user-generated pixel-level masks and can be retrain
 
 CrispTEM was developed and demonstrated for nanopore segmentation in Zr corrosion oxides. The workflow can also be retrained for other nanoscale TEM features and materials where conventional contrast-based image segmentation is insufficient or manual analysis is time-consuming.
 
-## Citation
-
-If you use CrispTEM in your research, please cite:
-
-Nama, R., Kumar, D., Choudhury, T., Grovenor, C., and Lozano-Perez, S. *Deep learning based nanopore detection and quantification from TEM images of Zr corrosion oxides (CrispTEM).* [Add journal details after publication.]
-
 ## License
 
 This project is distributed under the license specified in the repository.
-
-## Acknowledgements
-
-This work was supported by the Engineering and Physical Sciences Research Council (EPSRC) through the MIDAS programme (Mechanistic Understanding of Irradiation Damage in Fuel Assemblies), grant EP/S01702X/1. R.N. acknowledges studentship support from Westinghouse Electric Company and the provision of samples. The authors also acknowledge the facilities and support provided by the David Cockayne Centre for Electron Microscopy (DCCEM) at the University of Oxford for access to advanced electron microscopy instrumentation.
